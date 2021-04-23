@@ -3,9 +3,9 @@
 - 📫 Reach out to me at venkatasandeeptakasi@gmail.com
 
 I'm a passionate developer who loves problem-solving and building interactive web and mobile applications. Always Open to try and explore new technologies.
-SKILLS
-Databases
-MySQL, MongoDB
+-SKILLS
+-Databases
+  -MySQL, MongoDB
 
 Backend Framework & Library
 Node.js, Express.js
