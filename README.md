@@ -11,7 +11,7 @@ Databases:MySQL, MongoDB
 
 Backend Framework & Library: Node.js, Express.js
 
-Frontend Framework & Library: React.js
+Frontend Framework & Library: React.js, Vue.js, Nuxt.js
 
 Mobile Framework & Library: React Native
 
@@ -19,13 +19,13 @@ Languages: HTML / CSS, JavaScript, Java, TypeScript
 
 Version Control: Git, GitLab, GitHub
 
-Project Management: Trello
+Project Management: Trello, clickup, notion
 
-User Interface Design: Material Design
+User Interface Design: Material Design, Vuetify
 
 Editors: VS Code
 
-State Management: Redux
+State Management: Redux, Vuex
 
 Cloud Services: Firebase
 
